@@ -1,0 +1,6 @@
+[{a:7,f:8},"",{x:1},"","","","",{x:0.5},"","","","",{x:0.5,f:4},"","","",""],
+[{y:0.5,t:"#ffffff"},"",{t:"#000000"},"","","","","","","","",{t:"#ffffff",f:6},"","","","",{t:"#000000",f:4,w:2},""],
+[{f:8,w:1.5},"","",{t:"#ffffff",f:6},"","","",{t:"#000000",f:9},"",{f:4},"",{f:9},"",{t:"#ffffff",f:4},"",{c:"#174d73",f:7},"<i class='fa fa-chevron-up'></i>",{c:"#cccccc",f:4},"",{c:"#4d4d4d"},"Esc",{c:"#cccccc",f:6},"",{x:0.25,t:"#000000",f:8,w:1.25,h:2,w2:1.5,h2:1,x2:-0.25},""],
+[{c:"#b3ba00",f:7,w:1.75},"<i class='fa fa-superscript'></i>",{c:"#cccccc",t:"#ffffff",f:8},"","",{c:"#5c2d2d",f:4},"MMB",{n:true},"RMB",{c:"#cccccc",t:"#000000",f:9},"",{f:4},"",{f:9},"",{c:"#174d73",t:"#ffffff",f:7,n:true},"<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-down'></i>","<i class='fa fa-chevron-right'></i>",{c:"#cccccc",f:9},"",{t:"#000000",f:6},""],
+[{f:8,w:1.25},"",{f:6},"",{t:"#ffffff"},"","","",{f:4},"",{t:"#000000"},"","",{f:9},"",{t:"#ffffff"},"",{c:"#296eab",f:7},"<i class='fa fa-long-arrow-down'></i>","<i class='fa fa-long-arrow-up'></i>",{c:"#cccccc",t:"#000000",f:8,w:2.75},""],
+[{w:1.25},"",{f:6,w:1.25},"",{f:9,w:1.25},"",{c:"#5c2d2d",t:"#ffffff",f:4,w:6.25},"LMB",{c:"#00b086",t:"#000000",f:7,w:1.25},"<i class='kb kb-Unicode-Option-1'></i>",{c:"#cccccc",f:6,w:1.25},"",{f:9,w:1.25},"",{f:8,w:1.25},""]
